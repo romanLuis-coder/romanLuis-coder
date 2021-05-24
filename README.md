@@ -5,5 +5,5 @@
 - 💬 Fluent in English :us: & Español  :es:
 - 📫 How to reach me: You can send me an email: work.romanluis@gmail.con | Me puedes enviar un email a : work.romanluis@gmail.com 
 - ⚡ Fun fact: (₿) Bitcoin and cryptocurencies advocate | Interesado en Bitcoin y criptomonedas. 
--  
+- :writing_hand: Proyectos desarrollados / My projects so far: https://rluiswebdev.netlify.app/ | https://rluisbtc-calc.netlify.app/
 
